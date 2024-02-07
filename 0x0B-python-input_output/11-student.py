@@ -28,4 +28,3 @@ class Student:
         ''' Change attributes '''
         for p, r in json.items():
             self.__dict__[p] = r
-

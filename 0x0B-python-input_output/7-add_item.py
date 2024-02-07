@@ -16,4 +16,3 @@ if os.path.exists('add_item.json'):
     lisst = load_JSON('add_item.json')
 
 save_JSON(lisst + arg_list, "add_item.json")
-

@@ -23,4 +23,3 @@ class Student:
             return ret
         else:
             return self.__dict__
-

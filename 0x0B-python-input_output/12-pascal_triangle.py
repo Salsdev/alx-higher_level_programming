@@ -20,4 +20,3 @@ def pascal_triangle(n):
         aux.append(1)
         triangle.append(aux)
     return triangle
-
