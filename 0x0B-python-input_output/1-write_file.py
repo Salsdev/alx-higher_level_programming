@@ -10,4 +10,3 @@ def write_file(filename="", text=""):
         open_file.write(text)
         count = open_file.tell()
     return count
-
