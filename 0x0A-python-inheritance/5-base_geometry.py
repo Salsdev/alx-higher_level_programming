@@ -8,4 +8,3 @@ module for BaseGeometry
 class BaseGeometry:
     """BaseGeometry class."""
     pass
-

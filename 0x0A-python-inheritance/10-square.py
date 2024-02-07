@@ -19,4 +19,3 @@ class Square(Rectangle):
     def area(self):
         """Return the area"""
         return self.__size ** 2
-
