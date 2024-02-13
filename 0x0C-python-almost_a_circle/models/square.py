@@ -55,4 +55,3 @@ class Square(Rectangle):
         x = self.x
         y = self.y
         return {'id': id, 'x': x, 'size': size, 'y': y}
-
